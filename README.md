@@ -1,3 +1,3 @@
 # Материал по SecretNet7.
 
-# Материал по Aquarius.
+# Материал по Aquarius SaveBoot.

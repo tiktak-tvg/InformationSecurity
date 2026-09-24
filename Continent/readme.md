@@ -17,4 +17,5 @@
 14. Модем  PPPoE
 ```
 
-![Key Description](https://github.com/tvgVita69/InformationSecurity/assets/98489171/fcba3422-af5c-4145-babd-3b53d33d9fa5)
+<img width="1284" height="682" alt="image" src="https://github.com/user-attachments/assets/ef1a88f3-4300-423a-a21f-ce4f70f16491" />
+

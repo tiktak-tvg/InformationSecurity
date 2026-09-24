@@ -1,2 +1,3 @@
 
-![image](https://github.com/tvgVita69/InformationSecurity/assets/98489171/5fe44767-69a0-41be-83b9-b2089b007eaa)
+<img width="880" height="923" alt="image" src="https://github.com/user-attachments/assets/324f59ca-ca1c-43f0-9ab8-af6efafa0c57" />
+
